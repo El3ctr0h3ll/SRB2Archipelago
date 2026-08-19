@@ -98,7 +98,7 @@ def set_rules(world, options: SRB2Options, player: int, area_connections: dict, 
 
                       'Skip': [296,296,'weak_walls','roll','fits_under_gaps','midair_speed','can_spindash'], #
                       'Jana': [160,320,'spin_walls','strong_walls','strong_floors','instant_speed','wall_jump','breaks_spikes','pounds_springs','soft_jump','can_stomp','shoots_player_blockers','attacks_though_thin_walls'], #
-                      'Kou': [144,144,'weak_walls','spin_walls','strong_walls','stronger_walls','midair_speed','climbs_walls','breaks_spikes','pounds_springs','soft_jump','attacks_though_thin_walls'], #
+                      'Kou': [145,145,'weak_walls','spin_walls','strong_walls','stronger_walls','midair_speed','climbs_walls','breaks_spikes','pounds_springs','soft_jump','attacks_though_thin_walls'], #
                       'Echoes & Abyss': [1344,'weak_walls','spin_walls','strong_floors','midair_speed','free_flyer','breaks_spikes','pounds_springs','can_stomp','soft_jump','attacks_though_thin_walls'], #
                       
 					  'Cacee': [384,384,'weak_walls','strong_walls','stronger_walls','strong_floors','midair_speed','breaks_spikes','pounds_springs','soft_jump'],  #
